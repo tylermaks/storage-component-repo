@@ -6,10 +6,10 @@ import './Assets/Styles/AppStyles/App.css';
 
 function App() {
   return (
-    <section className="App">
+    <main className="App">
       <Fylo/>
       <ProgressBar />
-    </section>
+    </main>
   );
 }
 

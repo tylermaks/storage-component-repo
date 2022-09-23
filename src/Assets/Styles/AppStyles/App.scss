@@ -160,7 +160,7 @@ span{
     body{ 
         background-color: $black;
         background-image: url("../../Images/bg-desktop.png");
-        background-size: 100%;
+        background-size: contain;
         background-position: bottom;
     }
 
